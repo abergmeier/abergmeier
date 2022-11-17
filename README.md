@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Find me on: <a rel="me" href="https://hachyderm.io/@abergmeier">Hachyderm</a>
+- 🔭 I’m currently working on Linux driver for Litra Glow
