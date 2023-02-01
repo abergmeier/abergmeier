@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Find me on: <a rel="me" href="https://hachyderm.io/@abergmeier">Hachyderm</a>
 - 🔭 I’m currently working on Linux kernel driver for Litra Glow
 - 🔭 I’m currently working on Linux userspace driver for Litra Glow
